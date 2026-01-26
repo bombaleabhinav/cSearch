@@ -1,0 +1,6 @@
+requests
+numpy
+faiss-cpu
+PyPDF2
+python-docx
+tqdm
